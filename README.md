@@ -1,4 +1,4 @@
-# First_Script
- Primeiro repositório do curso de Git e GitHub.
- Luis Átila, 28/04/2020
+# Engenharia Elétrica
+ Repositório das rotinas de cálculo para engenharia elétrica.
+ Luis Átila
 
