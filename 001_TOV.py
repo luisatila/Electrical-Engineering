@@ -3,7 +3,7 @@
 # Calculation of overvoltages on the unfalted phases
 # Single-phase-to-ground fault
 # ------------------------------------------------------------------------------
-# Luis Átila, v1
+# Luis Átila, v1 05/2020
 #
 # --- Input data --- Positive and zero sequence equivalent impedances
 R1 = 0.03663
