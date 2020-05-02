@@ -1,4 +1,2 @@
-** Engenharia Elétrica
- Repositório das rotinas de cálculo para engenharia elétrica.
- Luis Átila
-
+# Electrical-Engineering
+Repository Python for electrical engineering calculations.
