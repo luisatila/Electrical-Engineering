@@ -1,2 +1,2 @@
-# Electrical-Engineering
-Repository Python for electrical engineering calculations.
+# Engenharia Elétrica
+Repositório Python com rotinas de cálculo para aplicações em engenharia elétrica.
